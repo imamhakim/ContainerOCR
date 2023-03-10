@@ -1,0 +1,5 @@
+roboflow
+numpy
+easyocr
+ultralytics
+mysql-connector-python
